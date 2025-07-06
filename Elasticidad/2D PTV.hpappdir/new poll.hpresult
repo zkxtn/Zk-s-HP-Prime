@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ResultFile>
+    <Title>Title</Title>
+    <UniqueId>69</UniqueId>
+    <Instructions>Instructions</Instructions>
+    <Question Number="1" Type="2" CKType="1" Desc="MultipleChoice" SubType1="0" SubType2="0" Text="l">
+        <Choice Index="0" Text="A: q"/>
+        <Choice Index="1" Text="Be"/>
+        <Choice Index="2" Text="C: r"/>
+        <Choice Index="3" Text="D: 3"/>
+        <Choice Index="4" Text="E: l"/>
+        <Answer PairID="3302714" CalcName="Zk's HP Prime" DevId="6000" AnsText="" AnsNonText="16"/>
+    </Question>
+</ResultFile>
