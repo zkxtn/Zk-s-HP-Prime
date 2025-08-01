@@ -1,5 +1,28 @@
 
+
 # Hp Prime Apps & (CAS) Var
+
+## Como enviar los códigos a la calculadora
+
+### Necesitas
+1. Calculadora HP Prime (obviously)
+2. Cable micro USB (el de cargar la calcu)
+3. Un ordenador
+4. El programa Hp Connectivity Kit de HP ( Consíguelo en: https://hpcalcs.com/download/)
+5. Saber arrastrar archivos, si esto ya se te complica, abandona la carrera
+
+### Tutorial
+1. Abres el Connectivity Kit
+2. Conectas la calculadora
+3. Arrastras los archivos a la calculadora
+
+Fácil, sencillo y para toda la familia.
+
+
+
+https://github.com/user-attachments/assets/526a87eb-040c-4f03-b7d6-7d5914fdc60a
+
+
 
 ## ¿Qué es CAS?
 Fácil, tu mejor amigo, "symbolic calculus", calculos con incognitas para los amigos y CAS para sus besties. Todos los calculos que se pueden realizar con una calculadora normal se pueden hacer en CAS, pero este tambien te permite añadir cualquier variable que desees, por lo que puedes hacer integrales (definidas e indefinidas), derivadas, aislar (solve), sistemas de ecuaciones.
