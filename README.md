@@ -6,10 +6,10 @@
 
 ### Necesitas
 1. Calculadora HP Prime (obviously)
-2. Cable micro USB (el de cargar la calcu)
+2. Cable micro USB (el de cargar la Hp)
 3. Un ordenador
 4. El programa Hp Connectivity Kit de HP ( Consíguelo en: https://hpcalcs.com/download/)
-5. Saber arrastrar archivos, si esto ya se te complica, abandona la carrera
+5. Saber arrastrar archivos, si esto ya se te complica, abandona la carrera :)
 
 ### Tutorial
 1. Abres el Connectivity Kit
